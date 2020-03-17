@@ -6,5 +6,5 @@
 
 ***
 
-- SampleMean
+- [SampleMean](SampleMean)
     - 모평균와 표본평균에 관하여
